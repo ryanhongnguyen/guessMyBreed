@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guessMyBreed/static/css/main.e6c13ad2.css",
+    "main.js": "/guessMyBreed/static/js/main.a1737ec4.js",
+    "index.html": "/guessMyBreed/index.html",
+    "main.e6c13ad2.css.map": "/guessMyBreed/static/css/main.e6c13ad2.css.map",
+    "main.a1737ec4.js.map": "/guessMyBreed/static/js/main.a1737ec4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a1737ec4.js"
+  ]
+}
